@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Local data/artifacts
+models/
+dataset/*.csv
+
+# Tooling and OS files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
